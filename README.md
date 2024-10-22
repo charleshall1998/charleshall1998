@@ -6,9 +6,8 @@ I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer 
 
 ### Fun Facts
 - I love to play video games (very unique hobby). 🖱️
-- I enjoy cooking Korean food despite my Vietnamese descent. 🍜
+- I love Asian foods, though Mexican food is a close second...
 - I love being in the gym & outdoor activities like hiking, camping etc. 🏋️‍♂️
-- I am a big anime fan (Jujutsu Kaisen is currently my favorite). 🖥️
 
 ## My Skills 👓
 
