@@ -13,15 +13,15 @@ I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer 
 
 ### Languages
 - C#
-- Typescript
-- Javascript
+- TypeScript
+- JavaScript
 - HTML
 - CSS
 - Java
 
 ### Technologies & Tools
 - Angular
-- ASP.NET
+- ASP.NET Core
 - Git
 - SQL Server
 - Spring
