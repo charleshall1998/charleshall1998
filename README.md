@@ -16,7 +16,7 @@ I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer 
 <br>
 <br>
 
-<img align="left" alt="Angular" width="40px" style="padding-right:10px;" src="images\angular.svg"/>
+<img align="left" alt="Angular" width="40px" style="padding-top:10px; padding-right:10px;" src="images\angular.svg"/>
 <img align="left" alt="React" width="40px" style="padding-top:5px; padding-right:10px;" src="images\react.svg"/>
 <img align="left" alt="Dot Net" width="40px" style="padding-top:5px; padding-right:10px;" src="images\dotnet.svg"/>
 <img align="left" alt="Git" width="40px" style="padding-top:5px; padding-right:10px;" src="images\git.svg"/>
