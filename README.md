@@ -5,7 +5,7 @@ My name is Charles Hall & I am a Software Engineer at Dell Technologies. I have 
 I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer Science in December of 2020. I joined a company called Talent Path, where I was able to further my knowledge of API's & Full Stack application development. This knowledge helped me get a position as a contractor at Dell, which later turned into an opportunity to join as a full-time employee!
 
 ## Languages & Tools
-<img align="left" alt="C Sharp" width="40px" style="padding-right:10px;" src="images\c-sharp.svg"/>
+<img align="left" alt="C Sharp" width="40px" style="padding-right:10px; padding-bottom:10px;" src="images\c-sharp.svg"/>
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="images\typescript.svg"/>
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="images\javascript.svg"/>
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="images\html-5.svg"/>
