@@ -25,6 +25,7 @@ I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer 
 <img align="left" alt="Spring" width="40px" style="padding-top:5px; padding-right:10px;" src="images\spring.svg"/>
 
 <br>
+<br>
 
 ## Fun Facts
 - I love to play video games (a very unique hobby). 🖱️
