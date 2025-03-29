@@ -1,8 +1,6 @@
-# Charles Hall 🚀
+# Hello, I'm Charles 🚀
 
-My name is Charles Hall & I am a Software Engineer at Dell Technologies. I have been programming since high school after I saw my younger brother creating awesome games in Unity. This inspired me to take AP Computer Science, the only class offered at my high school at the time, & clearly I enjoyed it enough to pursue my career! 
-
-I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer Science in December of 2020. I joined a company called Talent Path, where I was able to further my knowledge of API's & Full Stack application development. This knowledge helped me get a position as a contractor at Dell, which later turned into an opportunity to join as a full-time employee!
+I'm currently a software engineer at Dell Technologies just looking to grow my skills & contribute to the world!
 
 ## Languages & Tools
 
