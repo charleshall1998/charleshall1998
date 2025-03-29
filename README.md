@@ -31,9 +31,6 @@ I graduated from UGA (go Dawgs!!) with a Bachelor of Science degree in Computer 
     </tr>
 </table>
 
-<br>
-<br>
-
 ## Fun Facts
 - I love to play video games (a very unique hobby). 🖱️
 - I love Asian foods, though Mexican food is a close second...
